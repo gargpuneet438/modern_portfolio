@@ -43,7 +43,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="home" smooth={true} duration={500}>
           <h1 className="text-2xl font-bold cursor-pointer text-blue-600">
-            Abhishek<span className="text-gray-800">.dev</span>
+            Puneet<span className="text-gray-800">.dev</span>
           </h1>
         </Link>
 
